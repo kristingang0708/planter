@@ -1,0 +1,32 @@
+{
+  "name": "planter-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristingang0708/planter.git"
+  },
+  "keywords": [
+    "postgres",
+    "node",
+    "react",
+    "planter",
+    "microcontroller",
+    "sensor"
+  ],
+  "author": "Kristin Waggoner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristingang0708/planter/issues"
+  },
+  "homepage": "https://github.com/kristingang0708/planter#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg": "^8.7.3"
+  }
+}
